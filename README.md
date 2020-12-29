@@ -12,4 +12,5 @@ https://medium.com/@adabhishekdabas/algorithmic-bias-in-real-world-b98808e01586?
 https://link.medium.com/rjyvoWabA8
 ## 5.	Algorithmic Bias in real world -
 https://medium.com/@adabhishekdabas/algorithmic-bias-in-real-world-b98808e01586?sk=747a8851451c3c052a9a7e7553a6a3c7
-
+## 6.   Reinforcement Learning World
+https://adabhishekdabas.medium.com/rl-world-3fc4dc38a73d 
